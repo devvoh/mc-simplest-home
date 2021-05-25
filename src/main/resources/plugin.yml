@@ -1,10 +1,11 @@
 name: SimplestHomes
-version: 0.1.0
+description: The simplest homes command possible
+version: 0.1.1
 author: Robin de Graaf
 main: com.devvoh.simplesthomes.SimplestHomesPlugin
 api-version: 1.16
 commands:
   home:
-    description: Go to homes
+    description: Go to home
   sethome:
-    description: Set homes
+    description: Set home
