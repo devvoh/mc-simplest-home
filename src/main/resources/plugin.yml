@@ -1,5 +1,4 @@
 name: SimplestHomes
-description: The simplest homes command possible
 version: 0.1.0
 author: Robin de Graaf
 main: com.devvoh.simplesthomes.SimplestHomesPlugin
