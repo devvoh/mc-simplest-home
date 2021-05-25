@@ -1,11 +1,11 @@
-name: SimplestSpawn
-description: The simplest spawn command possible
+name: SimplestHomes
+description: The simplest homes command possible
 version: 0.1.0
 author: Robin de Graaf
-main: com.devvoh.simplestspawn.SimplestSpawnPlugin
+main: com.devvoh.simplesthomes.SimplestHomesPlugin
 api-version: 1.16
 commands:
-  spawn:
-    description: Go to spawn
-  setspawn:
-    description: Set spawn
+  home:
+    description: Go to homes
+  sethome:
+    description: Set homes

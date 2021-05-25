@@ -1,1 +1,1 @@
-# SimplestSpawn MC plugin for Spigot/Paper
+# SimplestHomes MC plugin for Spigot/Paper
